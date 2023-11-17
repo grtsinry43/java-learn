@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c4647fc-44d5-4b28-bf45-b344d6faf732" name="Changes" comment="多态学习">
+    <list default="true" id="5c4647fc-44d5-4b28-bf45-b344d6faf732" name="Changes" comment="动态绑定机制">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +56,7 @@
       <workItem from="1700130473544" duration="7582000" />
       <workItem from="1700147212910" duration="2595000" />
       <workItem from="1700198288499" duration="3513000" />
-      <workItem from="1700202268605" duration="8277000" />
+      <workItem from="1700202268605" duration="11001000" />
     </task>
     <task id="LOCAL-00001" summary="super override">
       <option name="closed" value="true" />
@@ -82,7 +82,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700202821825</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="动态绑定机制">
+      <option name="closed" value="true" />
+      <created>1700220489929</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1700220489929</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,7 +111,8 @@
     <MESSAGE value="super override" />
     <MESSAGE value="方法重写练习" />
     <MESSAGE value="多态学习" />
-    <option name="LAST_COMMIT_MESSAGE" value="多态学习" />
+    <MESSAGE value="动态绑定机制" />
+    <option name="LAST_COMMIT_MESSAGE" value="动态绑定机制" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
