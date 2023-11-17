@@ -27,6 +27,6 @@ public class Student extends Person {
     }
 
     public String say(){
-        return  "我叫" + getName() + "年龄" + getAge() + "序号" + getId() + "分数" + getScore();
+        return  super.say() + "序号" + getId() + "分数" + getScore();
     }
 }
