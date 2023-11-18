@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c4647fc-44d5-4b28-bf45-b344d6faf732" name="Changes" comment="equals及其源码">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+    <list default="true" id="5c4647fc-44d5-4b28-bf45-b344d6faf732" name="Changes" comment="equals练习">
+      <change afterPath="$PROJECT_DIR$/src/com/grtsinry43/object_/Finalize_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/grtsinry43/object_/HashCode_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/grtsinry43/object_/ToString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/grtsinry43/object_/EqualsExercise01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/grtsinry43/object_/EqualsExercise01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/grtsinry43/object_/EqualsExercise03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/grtsinry43/object_/EqualsExercise03.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,21 +37,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.Mappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -66,7 +66,8 @@
       <workItem from="1700202268605" duration="11988000" />
       <workItem from="1700234293884" duration="2634000" />
       <workItem from="1700268237755" duration="4318000" />
-      <workItem from="1700278562301" duration="2478000" />
+      <workItem from="1700278562301" duration="5190000" />
+      <workItem from="1700291809869" duration="840000" />
     </task>
     <task id="LOCAL-00001" summary="super override">
       <option name="closed" value="true" />
@@ -140,7 +141,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700269934683</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="equals练习">
+      <option name="closed" value="true" />
+      <created>1700281257630</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1700281257630</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,7 +174,8 @@
     <MESSAGE value="多态数组" />
     <MESSAGE value="多态参数" />
     <MESSAGE value="equals及其源码" />
-    <option name="LAST_COMMIT_MESSAGE" value="equals及其源码" />
+    <MESSAGE value="equals练习" />
+    <option name="LAST_COMMIT_MESSAGE" value="equals练习" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
