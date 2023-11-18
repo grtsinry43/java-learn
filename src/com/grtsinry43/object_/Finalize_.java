@@ -16,8 +16,8 @@ class Car{
         this.name = name;
     }
     //重写finalize
-    @Override
-    protected void finalize() throws Throwable {
-        System.out.println("123");
-    }
+//    @Override
+//    protected void finalize() throws Throwable {
+//        System.out.println("123");
+//    }
 }
