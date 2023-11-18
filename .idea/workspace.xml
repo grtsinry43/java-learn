@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c4647fc-44d5-4b28-bf45-b344d6faf732" name="Changes" comment="hash ToString Finalize" />
+    <list default="true" id="5c4647fc-44d5-4b28-bf45-b344d6faf732" name="Changes" comment="hash ToString Finalize">
+      <change afterPath="$PROJECT_DIR$/src/com/grtsinry43/debug_/Debug01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/grtsinry43/debug_/Debug02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/grtsinry43/debug_/Debug03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/grtsinry43/debug_/Debug04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/grtsinry43/debug_/DebugExercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,6 +54,68 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="Debug01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.grtsinry43.debug_.Debug01" />
+      <module name="javalearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.grtsinry43.debug_.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Debug02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.grtsinry43.debug_.Debug02" />
+      <module name="javalearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.grtsinry43.debug_.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Debug03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.grtsinry43.debug_.Debug03" />
+      <module name="javalearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.grtsinry43.debug_.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Debug04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.grtsinry43.debug_.Debug04" />
+      <module name="javalearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.grtsinry43.debug_.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Debug04" />
+        <item itemvalue="Application.Debug03" />
+        <item itemvalue="Application.Debug02" />
+        <item itemvalue="Application.Debug01" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -62,7 +131,7 @@
       <workItem from="1700234293884" duration="2634000" />
       <workItem from="1700268237755" duration="4318000" />
       <workItem from="1700278562301" duration="5190000" />
-      <workItem from="1700291809869" duration="1165000" />
+      <workItem from="1700291809869" duration="5157000" />
     </task>
     <task id="LOCAL-00001" summary="super override">
       <option name="closed" value="true" />
@@ -152,7 +221,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700292965517</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="hash ToString Finalize">
+      <option name="closed" value="true" />
+      <created>1700292989755</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1700292989755</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -180,6 +257,17 @@
     <MESSAGE value="equals练习" />
     <MESSAGE value="hash ToString Finalize" />
     <option name="LAST_COMMIT_MESSAGE" value="hash ToString Finalize" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/grtsinry43/debug_/DebugExercise.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
